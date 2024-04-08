@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projet_natif</string>
+    <string-array name="titles">
+
+        <item> Contacts</item>
+        <item> Sms</item>
+        <item> Call</item>
+        <item> Favorite</item>
+    </string-array>
+</resources>
